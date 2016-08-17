@@ -1,0 +1,5 @@
+site:
+ build: dockerfile_dossier
+ restart: always
+ ports:
+  - 8080:8080

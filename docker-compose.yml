@@ -1,5 +1,5 @@
 site:
- build: dockerfile_dossier
+ build: Dockerfile_directory
  restart: always
  ports:
   - 8080:8080
